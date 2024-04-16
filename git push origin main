@@ -1,0 +1,23 @@
+[33mcommit 2583708098668a2953de851118e3c8cd7ca79e54[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;32mchapter-2[m[33m)[m
+Author: Яковлев Иван Радикович <gr621_yakira@ttit.local>
+Date:   Tue Apr 16 15:23:30 2024 +0700
+
+    Create chapter2 and add text
+
+[33mcommit 31da91dd602d81baf77cd299dea343f2441e4a5d[m
+Author: Яковлев Иван Радикович <gr621_yakira@ttit.local>
+Date:   Tue Apr 16 15:15:55 2024 +0700
+
+    Change file
+
+[33mcommit ff7a9a5eb6615c72c41f56873b92d7b5a51d3481[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Яковлев Иван Радикович <gr621_yakira@ttit.local>
+Date:   Tue Apr 16 14:55:17 2024 +0700
+
+    New chapter 1 file with chapter heading
+
+[33mcommit fe2a2debf339f2da2b987d23f52d80557569467d[m
+Author: gr621yakira <166698300+gr621yakira@users.noreply.github.com>
+Date:   Mon Apr 15 12:26:28 2024 +0700
+
+    Initial commit
